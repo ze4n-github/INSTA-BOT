@@ -29,7 +29,7 @@ print(CYAN+"TIK TOK  :" + RED +  "ZE4N___C0NGU1T0X \n \n")
 time.sleep(1.2)
 
 
-print(VERDE+"[1] Empezar a seguir ")
+print(VERDE+"[1] Ganar seguidores")
 print("[2] Dejar de seguir \n")
 
 a = input (MAGENTA+ "Elige una opcion: " +RESET)
