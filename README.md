@@ -4,13 +4,13 @@ La mejor herramienta para aumentar los seguidores de Instagram
 
 # Menu Principal
 <p align="center">
-  <img src="https://ibb.co/TMGvSPq" width="470" height="250">
+  <img src="https://github.com/ze4n-github/INSTA-BOT/blob/main/menu%20principal.jpg" width="470" height="250">
 </p>
 
 # Opcion 1
 
 <p align="center">
-  <img src="https://postimg.cc/WqkT4dC7" width="470" height="250">
+  <img src="https://github.com/ze4n-github/INSTA-BOT/blob/main/opcion1.jpg" width="470" height="250">
 </p>
 
 
@@ -19,7 +19,7 @@ La mejor herramienta para aumentar los seguidores de Instagram
 # Opcion 2
 
 <p align="center">
-  <img src="https://postimg.cc/fkGMrvSq" width="470" height="250">
+  <img src="https://github.com/ze4n-github/INSTA-BOT/blob/main/opcion2.jpg" width="470" height="250">
 </p>
 
 
