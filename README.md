@@ -4,7 +4,7 @@ La mejor herramienta para aumentar los seguidores de Instagram
 
 # Menu Principal
 <p align="center">
-  <img src="https://postimg.cc/SYx4Nj29" width="470" height="250">
+  <img src="https://ibb.co/TMGvSPq" width="470" height="250">
 </p>
 
 # Opcion 1
