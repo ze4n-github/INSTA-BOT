@@ -4,7 +4,7 @@ La mejor herramienta para aumentar los seguidores de Instagram
 
 # Menu Principal
 <p align="center">
-  <img src="https://github.com/ze4n-github/INSTA-BOT/blob/main/menu%20principal.jpg" width="470" height="250">
+  <img src="https://github.com/ze4n-github/INSTA-BOT/blob/main/menu%20principal.jpg">
 </p>
 
 # Opcion 1
